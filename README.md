@@ -89,13 +89,7 @@ I enjoy solving real-world problems, designing clean UI/UX, and building robust 
 
 ---
 
-## 📜 Certifications  
 
-🎓 **Namaste JavaScript, React & Node.js**  
-🔗 https://namastedev.com/  
-
-- Hands-on training with real-world projects  
-- Focus on best practices and modern development  
 
 ---
 
@@ -117,7 +111,7 @@ I enjoy solving real-world problems, designing clean UI/UX, and building robust 
 ## 📫 Connect With Me  
 
 - 📧 Email: ramesh.mamidi93@gmail.com  
-- 💼 GitHub: https://github.com/ramesh123  
+ 
 
 ---
 
