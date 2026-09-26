@@ -1,24 +1,25 @@
 # 👋 Hi, I'm Mamidi Ramesh
 
-### 🚀 Full-Stack Developer | React.js | Node.js | Express.js | MongoDB | PostgreSQL | FastAPI
+### 💻 Full-Stack Developer | React.js | Node.js | Python
 
-📍 Hyderabad, Telangana, India
-I'm a **Full-Stack Developer** with 3+ years of experience building, optimizing, and deploying scalable web applications.
-I enjoy creating **responsive UI/UX, REST APIs, database-driven applications, and modern full-stack projects**.
----------------------------------------------------------------------------------------------------------------
+I'm a **Full-Stack Developer with 3+ years of experience** in building, optimizing, and deploying scalable web applications.
+
+I have strong experience in **React.js, Node.js, Express.js, and MongoDB**, with a focus on clean UI/UX, performance optimization, API integration, and problem-solving.
+
+---
 
 ## 👨‍💻 About Me
 
 * 💻 Full-Stack Developer
 * ⚛️ React.js Developer
-* 🟢 Node.js & Express.js Developer
-* 🐍 Python & FastAPI Learner/Developer
-* 🍃 MongoDB & PostgreSQL
-* 🎨 Tailwind CSS
-* 🔗 REST API Development
-* 🗄️ Database Design & CRUD Operations
-* 📦 Git & GitHub
-* 🚀 Interested in building real-world applications
+* 🟢 Node.js & Express.js
+* 🗄️ MongoDB & PostgreSQL
+* 🐍 Python & FastAPI
+* 📊 NumPy
+* 🔧 Git & GitHub
+* 🎨 Responsive UI/UX
+* 🚀 Real-world web application development
+* 📍 Hyderabad, Telangana, India
 
 ---
 
@@ -47,133 +48,159 @@ I enjoy creating **responsive UI/UX, REST APIs, database-driven applications, an
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-### 🐍 Python / Data
+### 📊 Data & Libraries
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge\&logo=python\&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge\&logo=pydantic\&logoColor=white)
 
-### 🔗 ORM
-
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge\&logo=mongoose\&logoColor=white)
-
-### 🔧 Tools
+### 🔧 Tools & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge\&logo=dbeaver\&logoColor=white)
-----------------------------------------------------------------------------------------------------------
-
-# 📂 Featured Projects
-
-## 📚 IJCNWC — International Journal
-
-🔗 **Website:** https://ijcnwc.com/
-A full-stack web application for the International Journal of Computer Networks and Wireless Communication.
-
-### Features
-
-* 🔐 User Authentication
-* 🎨 Responsive UI/UX
-* ⚙️ Backend Architecture
-* 🗄️ Database Integration
-* 🚀 Deployment & Optimization
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
-## 🎥 Video Streaming Web App
+## 💼 Professional Experience
 
-🔗 **Live Demo:** https://video-stream-dun-theta.vercel.app/
-A modern video streaming platform built with React.
+### 🏢 HIROTOIND TECHNOLOGIES
+
+**Full-Stack Developer**
+
+📍 Hyderabad, India
+📅 September 2022 – October 2025
+
+### Responsibilities
+
+* Developed and maintained full-stack web applications.
+* Designed responsive frontend UI/UX.
+* Developed backend logic.
+* Integrated databases and APIs.
+* Worked on application performance optimization.
+* Contributed to high-quality web solutions.
+
+---
+
+# 🚀 Projects
+
+## 📚 IJCNWC
+
+### International Journal of Computer Networks and Wireless Communication
+
+🔗 [Visit Website](https://ijcnwc.com)
+
+**Role:** Full-Stack Developer
+
+### Work
+
+* Designed a responsive interface.
+* Developed backend architecture.
+* Implemented user authentication.
+* Deployed and optimized the application.
+* Worked toward high availability.
+
+---
+
+## 🎬 Video Streaming Web App
+
+🔗 [Live Demo](https://video-stream-dun-theta.vercel.app/)
+
+**Role:** Frontend Developer
 
 ### Technologies
 
-* ⚛️ React.js
-* 🎨 Tailwind CSS
-* ⚡ Vite
-* 📺 YouTube Data API
+* React.js
+* Tailwind CSS
+* Vite
+* YouTube Data API
 
 ### Features
 
+* 🎥 Modern video streaming platform
 * 🔎 Real-time video search
 * 📺 Dynamic video listing
-* 📱 Mobile responsive design
-* 🎨 Modern UI/UX
+* 📱 Mobile-friendly design
+* 🎨 Clean and responsive UI/UX
 
 ---
 
-## 🍔 Food Ordering Application
-
-🔗 **Frontend:** https://restaurant-food-app-frontend.vercel.app/
-🔗 **Dashboard:** https://restaurant-dashboard-pi-rose.vercel.app/
-A responsive food ordering application with a React frontend and Node.js backend.
+## 🍔 Food Order App
 
 ### Frontend
 
-* ⚛️ React.js
-* 🎨 Tailwind CSS
-* ⚡ Vite
-* 🎯 DaisyUI
+🔗 [Live Demo](https://restaurant-food-app-frontend.vercel.app/)
 
-### Backend
+**Role:** Frontend Developer
 
-* 🟢 Node.js
-* 🚂 Express.js
-* 🍃 MongoDB
-* 🔗 REST APIs
+### Technologies
+
+* React.js
+* Tailwind CSS
+* Vite
 
 ### Features
 
-* 🍽️ Restaurant listings
-* 🛒 Product/menu management
+* 🍽️ Responsive food ordering application
+* 🏪 Dynamic restaurant listings
+* 📋 Dynamic menu listings
+* 🧭 Smooth navigation
+* 📱 Mobile and desktop responsive UI
+* ♻️ Component reusability
+* ⚡ Performance-focused development
+
+### Backend
+
+🔗 [Restaurant Dashboard](https://restaurant-dashboard-pi-rose.vercel.app/)
+
+**Role:** Backend Developer
+
+### Technologies
+
+* Node.js
+* Express.js
+* MongoDB
+
+### Features
+
+* 🔌 RESTful APIs
+* 🏪 Restaurant management
+* 📦 Product management
 * 👤 User data management
-* 🔄 CRUD operations
-* 🔗 RESTful APIs
-* 📱 Responsive design
+* 🗄️ MongoDB database schemas
+* ✏️ CRUD operations
+* 🔗 React frontend API integration
+* 📈 Scalable backend architecture
+* ⚡ Backend performance optimization
 
 ---
 
-# 📊 Skills
+## 🌐 Other Projects
 
-| Category        | Technologies                       |
-| --------------- | ---------------------------------- |
-| Frontend        | HTML, CSS, React.js, Tailwind CSS  |
-| Backend         | Node.js, Express.js, FastAPI       |
-| Databases       | MongoDB, PostgreSQL                |
-| Languages       | JavaScript, Python                 |
-| Libraries       | NumPy, Pandas, Matplotlib, Seaborn |
-| ORM             | SQLAlchemy, Mongoose               |
-| Version Control | Git, GitHub                        |
-| Tools           | VS Code, Postman, DBeaver, Vite    |
+* 🏠 [Real Estate Application](https://real-estate-three-peach.vercel.app/)
+* 📖 [HMS Journal](https://hmsjournal.com/)
+* 🎵 [Musik in Bayern](https://musikinbayern.com/)
 
 ---
-
-# 🎓 Education
-
-🎓 **B.Tech – Mechanical Engineering**
-JNTU, Hyderabad — 2016
-----------------------
 
 # 📜 Certification
 
-### Namaste JavaScript, React & Node.js
+## 🎓 Namaste JavaScript, React, NodeJs
 
-Hands-on training covering:
+🔗 [NamasteDev](https://namastedev.com/)
+
+Completed hands-on training covering:
 
 * JavaScript fundamentals
 * React.js
 * Node.js
 * Real-world projects
+* Best practices
 * Modern web development concepts
 
 ---
 
-# 🌱 Currently Learning
+# 📚 Currently Learning
+
+I'm continuously expanding my development and data-related skills.
 
 ```text
 Python
@@ -182,54 +209,78 @@ NumPy
    ↓
 Pandas
    ↓
-Matplotlib
-   ↓
-Seaborn
-   ↓
-SQL / PostgreSQL
+Data Analysis
    ↓
 FastAPI
    ↓
-Pydantic
+PostgreSQL
    ↓
-SQLAlchemy / ORM
-   ↓
-Full-Stack Development
+Data Science
 ```
 
 ---
 
-# 💡 Strengths
+# 🎯 Career Focus
 
-* 🚀 Quick Learner
+```text
+Full-Stack Development
+        ↓
+React.js + JavaScript
+        ↓
+Node.js + Express.js
+        ↓
+MongoDB + PostgreSQL
+        ↓
+Python + FastAPI
+        ↓
+Data & AI
+```
+
+---
+
+# 💪 Strengths
+
+* ⚡ Quick Learner
 * 🧠 Critical Thinking
 * 🔄 Adaptability
 * 🛠️ Problem Solving
 * 🤝 Team Collaboration
 
+Your resume specifically lists **Quick Learner, Critical Thinking, and Adaptability**.
+
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramesh12331&show_icons=true&theme=tokyonight&hide_border=true" alt="Ramesh's GitHub Stats" />
-</p>
+![Ramesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramesh12331\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh12331\&layout=compact\&theme=tokyonight)
+
+---
+
 # 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ramesh12331&theme=tokyonight&hide_border=true" alt="Ramesh's GitHub Streak" />
-</p>
-# 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh12331&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ramesh12331\&theme=tokyonight)
+
 ---
+
 # 📫 Connect With Me
-📧 **Email:** [ramesh.mamidi93@gmail.com](mailto:ramesh.mamidi93@gmail.com)
-💻 **GitHub:** [github.com/ramesh12331](https://github.com/ramesh12331)
-📍 **Location:** Hyderabad, Telangana, India
+
+* 📧 Email: **[ramesh.mamidi93@gmail.com](mailto:ramesh.mamidi93@gmail.com)**
+* 🐙 GitHub: [ramesh12331](https://github.com/ramesh12331)
+* 💼 LinkedIn: **Add your LinkedIn profile**
+* 📍 Hyderabad, Telangana, India
+
 ---
-## ⭐ Thanks for visiting my profile!
-If you find my projects useful, consider giving them a ⭐.
-```text
-💻 Code → 🚀 Build → 🧪 Test → 📦 Deploy → 🌱 Learn
-```
+
+# 🌱 Developer Philosophy
+
+> **Learn → Build → Practice → Improve → Repeat**
+
+I believe that continuous learning, hands-on development, and solving real-world problems are essential for becoming a better developer.
+
+---
+
+## ⭐ Thanks for Visiting My Profile!
+
+### 🚀 Keep Learning • Keep Building • Keep Growing
