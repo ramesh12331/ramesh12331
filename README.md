@@ -1,118 +1,210 @@
-# 👋 Hi, I'm Mamidi Ramesh  
+# 👋 Hi, I'm Mamidi Ramesh
 
-🚀 **Full-Stack Developer | React | Node.js | MongoDB**  
-📍 Hyderabad, Telangana, India  
+### 🚀 Full-Stack Developer | React.js | Node.js | Express.js | MongoDB | PostgreSQL | FastAPI
 
----
+📍 Hyderabad, Telangana, India
+📧 **Email:** [ramesh.mamidi93@gmail.com](mailto:ramesh.mamidi93@gmail.com)
+💻 **GitHub:** [github.com/ramesh12331](https://github.com/ramesh12331)
 
-## 🧑‍💻 About Me  
+I’m a **Full-Stack Developer** with 3+ years of experience building, optimizing, and deploying scalable web applications. I work with modern frontend, backend, database, and API technologies to build responsive and user-friendly applications.
 
-I’m a **Full-Stack Developer** with 3+ years of hands-on experience in building scalable, responsive, and high-performance web applications.  
-I enjoy solving real-world problems, designing clean UI/UX, and building robust backend systems.
+## 👨‍💻 About Me
 
-- 🔭 Currently working as a **Full-Stack Developer**
-- 🌱 Constantly learning modern web technologies
-- 💡 Passionate about clean code & performance optimization
-- 🤝 Strong team player with good communication skills  
+* 💻 Full-Stack Developer
+* ⚛️ React.js Developer
+* 🟢 Node.js & Express.js Developer
+* 🐍 Python & FastAPI
+* 🍃 MongoDB & PostgreSQL
+* 🎨 Tailwind CSS
+* 🔗 REST API Development
+* 🗄️ Database & CRUD Operations
+* 🌿 Git & GitHub
+* 🚀 Interested in building real-world applications
 
----
+## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack  
+| Category                    | Technologies                                                      |
+| :-------------------------- | :---------------------------------------------------------------- |
+| 💻 **Languages**            | Python • JavaScript • SQL                                         |
+| 🌐 **Frontend**             | HTML5 • CSS3 • Bootstrap • Tailwind CSS • React.js • React Router |
+| ⚙️ **Backend**              | Node.js • Express.js • FastAPI                                    |
+| 🐍 **Python Ecosystem**     | NumPy • Pandas • Matplotlib • Seaborn • Pydantic                  |
+| 🗄️ **Databases**           | MongoDB • PostgreSQL • MySQL                                      |
+| 🔗 **ORM**                  | SQLAlchemy • Mongoose                                             |
+| 🔌 **APIs**                 | REST API • CRUD • Postman • Query Parameters • Path Parameters    |
+| 🎨 **UI**                   | Bootstrap • Tailwind CSS • DaisyUI • Responsive Design            |
+| 🛠️ **Tools**               | VS Code • DBeaver • Postman • Vite • npm • pip                    |
+| 🌿 **Version Control**      | Git • GitHub • Git Branching • Git Merge                          |
+| 🚀 **Deployment**           | Vercel                                                            |
+| 📊 **Data & Visualization** | NumPy • Pandas • Matplotlib • Seaborn                             |
 
-### 🚀 Frontend  
-- HTML5, CSS3  
-- Bootstrap, Tailwind CSS  
-- React.js  
+The core technologies in this stack are reflected in your resume, including React, Node.js, Express.js, FastAPI, MongoDB, PostgreSQL, NumPy, JavaScript, Python, Git, and GitHub.
 
-### ⚙️ Backend  
-- Node.js, Express.js  
-- PHP  
+## 📂 Featured Projects
 
-### 🗄️ Databases  
-- MongoDB  
-- MySQL  
+### 📚 IJCNWC — International Journal of Computer Networks and Wireless Communication
 
-### 🧰 Tools & Platforms  
-- Git & GitHub  
-- Visual Studio Code  
-- Vite  
+🔗 **Website:** [ijcnwc.com](https://ijcnwc.com/)
+**Role:** Full-Stack Developer
 
----
+* 🎨 Designed responsive interface
+* ⚙️ Developed backend architecture
+* 🔐 Implemented user authentication
+* 🚀 Deployed and optimized the application
+* 🗄️ Integrated database functionality
 
-## 📌 Featured Projects  
+### 🎥 Video Streaming Web App
 
-### 🌐 IJCNWC – International Journal Website  
-🔗 https://ijcnwc.com  
+🔗 **Live Demo:** [Video Streaming App](https://video-stream-dun-theta.vercel.app/)
+**Role:** Frontend Developer
 
-- Full-stack web application with authentication  
-- Responsive UI and scalable backend architecture  
-- Optimized for performance and high availability  
+* ⚛️ Built using React.js
+* 🎨 Tailwind CSS
+* ⚡ Vite
+* 📺 Integrated YouTube Data API
+* 🔎 Real-time video search
+* 📱 Responsive UI/UX
 
----
+### 🍔 Food Ordering Application
 
-### 🎥 Video Streaming Web App  
-🔗 https://video-stream-dun-theta.vercel.app/  
+🔗 **Frontend:** [Food Ordering App](https://restaurant-food-app-frontend.vercel.app/)
+🔗 **Dashboard:** [Restaurant Dashboard](https://restaurant-dashboard-pi-rose.vercel.app/)
+**Role:** Frontend & Backend Developer
 
-- Built with **React.js, Tailwind CSS, and Vite**  
-- Integrated **YouTube Data API**  
-- Clean UI/UX with responsive design  
+* ⚛️ React.js frontend
+* 🎨 Tailwind CSS
+* ⚡ Vite
+* 🟢 Node.js
+* 🚂 Express.js
+* 🍃 MongoDB
+* 🔗 RESTful APIs
+* 🔄 CRUD operations
+* 📱 Responsive design
+* 🧩 Component reusability
+* 🚀 Backend performance optimization
 
----
+### 🏠 Other Projects
 
-### 🍔 Food Order Application  
+* 🔗 [Real Estate Application](https://real-estate-three-peach.vercel.app/)
+* 🔗 [HMS Journal](https://hmsjournal.com/)
+* 🔗 [Musik in Bayern](https://musikinbayern.com/)
 
-**Frontend**  
-🔗 https://restaurant-food-app-frontend.vercel.app/  
+## 📊 Development Skills
 
-- Responsive food ordering UI  
-- Dynamic restaurant & menu listings  
+```text
+Frontend
+├── HTML
+├── CSS
+├── Bootstrap
+├── Tailwind CSS
+├── React.js
+└── React Router
 
-**Backend**  
-🔗 https://restaurant-dashboard-pi-rose.vercel.app/  
+Backend
+├── Node.js
+├── Express.js
+└── FastAPI
 
-- RESTful APIs using Node.js & Express  
-- MongoDB schemas and secure CRUD operations  
+Database
+├── MongoDB
+├── PostgreSQL
+└── MySQL
 
----
+Python
+├── NumPy
+├── Pandas
+├── Matplotlib
+├── Seaborn
+└── Pydantic
 
-### 🔁 Similar Projects  
-- https://real-estate-three-peach.vercel.app/  
-- https://hmsjournal.com/  
-- https://musikinbayern.com/  
+Tools
+├── Git
+├── GitHub
+├── VS Code
+├── Postman
+├── DBeaver
+└── Vite
+```
 
----
+## 🌱 Current Learning Path
 
-## 📈 GitHub Stats  
+```text
+🐍 Python
+   ↓
+🔢 NumPy
+   ↓
+🐼 Pandas
+   ↓
+📊 Matplotlib
+   ↓
+📈 Seaborn
+   ↓
+🗄️ SQL
+   ↓
+🐘 PostgreSQL
+   ↓
+⚡ FastAPI
+   ↓
+📦 Pydantic
+   ↓
+🔗 SQLAlchemy
+   ↓
+🛢️ ORM
+   ↓
+🚀 Full-Stack Development
+```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramesh123&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh123&layout=compact&theme=tokyonight)
+## 🎓 Education
 
----
+🎓 **B.Tech – Mechanical Engineering**
+JNTU, Hyderabad — 2016 | 64.40%
 
+🎓 **Intermediate – MPC**
+Bhavitha Junior College, Suryapet — 2012 | 88.70%
 
+🎓 **SSC**
+ZPHS Balemla — 2010 | 83%
 
----
+## 📜 Certification
 
-## 💪 Strengths  
+### Namaste JavaScript, React, Node.js
 
-- ⚡ Quick Learner  
-- 🧠 Critical Thinker  
-- 🔄 Adaptable to new technologies  
+Completed hands-on training covering:
 
----
+* JavaScript fundamentals
+* React.js
+* Node.js
+* Real-world projects
+* Modern web development concepts
 
-## 🌍 Languages  
+## 💡 Strengths
 
-- Telugu – Native  
-- English – Proficient  
+* 🚀 Quick Learner
+* 🧠 Critical Thinking
+* 🔄 Adaptability
+* 🛠️ Problem Solving
+* 🤝 Team Collaboration
 
----
+## 📈 GitHub Activity
 
-## 📫 Connect With Me  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramesh12331\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-- 📧 Email: ramesh.mamidi93@gmail.com  
- 
+## 🔥 GitHub Streak
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=ramesh12331\&theme=tokyonight\&hide_border=true)
 
-⭐ *If you like my work, consider giving a star to my repositories!*  
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh12331\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+## 📫 Connect With Me
+
+📧 **Email:** [ramesh.mamidi93@gmail.com](mailto:ramesh.mamidi93@gmail.com)
+💻 **GitHub:** [github.com/ramesh12331](https://github.com/ramesh12331)
+📍 **Location:** Hyderabad, Telangana, India
+
+## ⭐ Thanks for Visiting!
+
+```text
+💻 Code → 🧪 Test → 🚀 Build → 📦 Deploy → 🌱 Learn → 🔥 Repeat
+```
