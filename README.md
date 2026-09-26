@@ -250,11 +250,14 @@ Your resume specifically lists **Quick Learner, Critical Thinking, and Adaptabil
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramesh12331&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramesh12331&layout=compact&theme=tokyonight&hide_border=true)
+- 💻 Full-Stack Development
+- ⚛️ React.js
+- 🟢 Node.js & Express.js
+- 🐍 Python
+- 🗄️ MongoDB & PostgreSQL
+- 🔧 Git & GitHub
 
 ---
 
